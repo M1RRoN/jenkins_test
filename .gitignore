@@ -1,4 +1,5 @@
 .env
+allure-results/
 
 ### Python template
 # Byte-compiled / optimized / DLL files
